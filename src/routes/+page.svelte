@@ -1,1 +1,1 @@
-<h1>Welcome to Taike - eady note taking</h1>
+<h1>Welcome to Taike - easy note taking</h1>

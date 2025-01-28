@@ -1,6 +1,6 @@
 # Project components
 https://github.com/pluvial/svelte-adapter-deno
-
+https://dev.to/bop/using-hono-with-sveltekit-full-type-safety-with-rpc-2h7
 
 # sv
 
