@@ -1,3 +1,12 @@
+
+# Setup
+Start new SvelteKit project
+Install tailwind, drizzle, lucia
+Install Chadcn svelte
+Add components
+
+
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
